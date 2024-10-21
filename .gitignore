@@ -1,0 +1,6 @@
+venv
+config.ini
+.cache
+oauth_client_secret.json
+playlist_transfer_priogress.json
+playlists.json
